@@ -1,2 +1,2 @@
 # MachineLearningAssignments
-The machine learning assignments.
+The machine learning assignments from Andrew Ng. 
